@@ -1,0 +1,60 @@
+.row{
+    margin-top: 50px !important;
+    
+}
+.col{
+    margin-top: 100px !important;
+}
+.decoration-inherit{
+    background-color: rgb(221, 235, 240);
+}
+
+.btn-primary{
+    width:318px !important;
+    height: 59px !important;
+    font-size: medium !important;
+    padding-top: 15px !important;
+}
+.price{
+    padding-top: 100px !important;
+    color: white !important;
+    margin-top: 100px !important;
+    background-color: rgb(7, 7, 56) !important;
+}
+.rounded-r-full{
+    color:rgba(71, 59, 240, 1) ;
+    background-color: lightslategray;
+    border-radius: 30px !important;
+    width:100px !important;
+    height: 30px !important;
+   margin: auto !important;
+   text-align: center !important;
+   margin-top: 20px !important;
+   padding-top: 5px !important;
+}
+.text-collor{
+    color:rgba(104, 213, 133, 1) !important;
+    background-color: transparent !important;
+   border: none !important;
+}
+.btn-1{
+    width:185px !important;
+    background-color:rgb(211, 234, 241) !important;
+    height: 59px !important;
+    font-size: medium !important;
+    padding-top: 15px !important;
+    border: none !important;
+    color: blue !important;
+    border-radius: 10px !important;
+}
+.btn-2{
+    margin-left: 20px !important;
+    width:185px !important;
+    background-color:rgba(71, 59, 240, 1) !important;
+    height: 59px !important;
+    font-size: medium !important;
+    padding-top: 15px !important;
+    border: none !important;
+    color: white !important;
+    border-radius: 10px !important;
+}
