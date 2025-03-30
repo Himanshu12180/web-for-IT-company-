@@ -1,0 +1,1 @@
+![screencapture-file-C-Users-himan-OneDrive-Desktop-my-fullstack-prectis-frontand-day15-index-html-2025-03-30-17_43_27](https://github.com/user-attachments/assets/34a53521-107d-46e2-a6cb-b2ef30c53e5b)
